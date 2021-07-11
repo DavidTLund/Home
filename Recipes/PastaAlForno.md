@@ -2,6 +2,8 @@
 
 4 portioner
 
+I think this is from Paolo Roberto on the web somewhere.
+
 * 500 g penne eller annan kort pasta
 * 125 g mozzarella, i små bitar
 * 1 1/2 dl riven parmesanost

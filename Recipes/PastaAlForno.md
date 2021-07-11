@@ -2,15 +2,11 @@
 
 4 portioner
 
--------------------------------
-
 * 500 g penne eller annan kort pasta
 * 125 g mozzarella, i små bitar
 * 1 1/2 dl riven parmesanost
 
 ## KÖTTFÄRSSÅSEN:
-
----------------------
 
 * 300 g nötfärs
 * 1 gul lök, finhackad
@@ -28,8 +24,6 @@
 
 **Note:** need to double or triple the Bechamelsåsen below. The critics complained not enough.
 
-----------------
-
 * 1 1/2 msk smör
 * 1 1/2 msk vetemjöl
 * 3 dl mjölk
@@ -38,8 +32,6 @@
 * 1 nypa riven muskot
 
 ## Gör så här:
-
----------
 
 1. Värm upp oljan till köttfärssåsen i en stor kastrull och bryn nötfärs, lök och vitlök, blekselleri och morötter. Smula samtidigt färsen med en gaffel.
 

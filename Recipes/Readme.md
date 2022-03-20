@@ -12,5 +12,8 @@ A large number are from "The Frugal Gourmet Cooks American" by Jeff Smith. A fav
 - [Corn relish](./Cornrelish.md)
 - [Eggplant casserole](./Eggplant-Casserole.md)
 - [Jambalaya](./Jambalaya.md)
+- [Oyster and corn bread stuffing](./Oyster-Corn-bread-stuffing.md)
 - [Pasta Al forno](./PastaAlForno.md)
 - [Pasta asparagus and scallops](./PastaAsparagusAndScallops.md)
+- [Turkey breast in chili marinade](./Turkey-breast-in-chili-marinade.md)
+

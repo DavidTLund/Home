@@ -16,4 +16,4 @@ A large number are from "The Frugal Gourmet Cooks American" by Jeff Smith. A fav
 - [Pasta Al forno](./PastaAlForno.md)
 - [Pasta asparagus and scallops](./PastaAsparagusAndScallops.md)
 - [Turkey breast in chili marinade](./Turkey-breast-in-chili-marinade.md)
-
+- [Eric's African stew](./EricsAfricanStew.md)

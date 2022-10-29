@@ -18,3 +18,4 @@ A large number are from "The Frugal Gourmet Cooks American" by Jeff Smith. A fav
 - [Turkey breast in chili marinade](./Turkey-breast-in-chili-marinade.md)
 - [Eric's African stew](./EricsAfricanStew.md)
 - [Fried fish batter](./FriedFishBatter.md)
+- [Macaroni and Cheese](MacaroniCheese.md)

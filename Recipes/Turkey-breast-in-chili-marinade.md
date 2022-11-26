@@ -20,6 +20,6 @@ Just remember the dark meat dries out faster in the oven.
 4.  Next day apply this to the turkey parts. And let it marinate a while.
 5.  Do the turkey in the oven.
 
-**Note:** I still baste the turkey a bit with butter so the stay moist and looks good.
+**Note:** I still baste the turkey a bit with butter so it stays moist and looks good.
 
 **PS:** If you make gravy from the pan drippings, there will be a good kick to the gravy.

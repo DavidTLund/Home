@@ -8,7 +8,7 @@ Just remember the dark meat dries out faster in the oven.
 
 - 8-10 chili peppars - I usually mix red and green.
 - 2 cloves garlic
-- 174 cup olive oil
+- 1/4 cup olive oil
 - 1 tsp oregano
 - salt
 
